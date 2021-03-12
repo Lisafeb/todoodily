@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todoodily/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/todoodily/static/js/main.33116c6f.chunk.js",
+    "main.js.map": "/todoodily/static/js/main.33116c6f.chunk.js.map",
+    "runtime-main.js": "/todoodily/static/js/runtime-main.582b3235.js",
+    "runtime-main.js.map": "/todoodily/static/js/runtime-main.582b3235.js.map",
+    "static/js/2.b29d82e6.chunk.js": "/todoodily/static/js/2.b29d82e6.chunk.js",
+    "static/js/2.b29d82e6.chunk.js.map": "/todoodily/static/js/2.b29d82e6.chunk.js.map",
+    "static/js/3.96e9afe8.chunk.js": "/todoodily/static/js/3.96e9afe8.chunk.js",
+    "static/js/3.96e9afe8.chunk.js.map": "/todoodily/static/js/3.96e9afe8.chunk.js.map",
+    "index.html": "/todoodily/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/todoodily/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b29d82e6.chunk.js.LICENSE.txt": "/todoodily/static/js/2.b29d82e6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/todoodily/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.582b3235.js",
+    "static/js/2.b29d82e6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.33116c6f.chunk.js"
+  ]
+}
